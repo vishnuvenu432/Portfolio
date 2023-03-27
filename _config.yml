@@ -1,6 +1,12 @@
-title: Vishnu Venu
+title: <p align="center"> Vishnu Venu </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vishnu-venu-543152b1/">LinkedIn</a> |
+  <a href="https://github.com/vishnuvenu432">GitHub</a>
+  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
